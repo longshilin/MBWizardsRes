@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1","InternalGameVersion":0,"InternalResourceVersion":2105110115,"UpdatePrefixUri":"https://longshilin.com/MBWizardsRes/master/0_1_2105110115/IOS","VersionListLength":7168,"VersionListHashCode":749739994,"VersionListZipLength":2971,"VersionListZipHashCode":245600960}
