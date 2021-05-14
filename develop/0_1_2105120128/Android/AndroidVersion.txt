@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1","InternalGameVersion":0,"InternalResourceVersion":2105120128,"UpdatePrefixUri":"https://longshilin.com/MBWizardsRes/develop/0_1_2105120128/Android","VersionListLength":7166,"VersionListHashCode":-1613941951,"VersionListZipLength":2954,"VersionListZipHashCode":-1877135414}
